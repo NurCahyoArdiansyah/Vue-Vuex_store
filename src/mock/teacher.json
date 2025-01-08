@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nama": "Ahmad Suryadi",
+    "alamat": "Jl. Raya Sukamaju No. 12, Bandung",
+    "mapel": "Matematika"
+  },
+  {
+    "id": 2,
+    "nama": "Siti Nurjanah",
+    "alamat": "Jl. Merpati Indah No. 8, Yogyakarta",
+    "mapel": "Bahasa Inggris"
+  },
+  {
+    "id": 3,
+    "nama": "Budi Santoso",
+    "alamat": "Jl. Kebon Jeruk No. 45, Jakarta",
+    "mapel": "Fisika"
+  },
+  {
+    "id": 4,
+    "nama": "Rina Kusuma",
+    "alamat": "Jl. Cendrawasih No. 23, Surabaya",
+    "mapel": "Biologi"
+  },
+  {
+    "id": 5,
+    "nama": "Dewi Lestari",
+    "alamat": "Jl. Melati Asri No. 10, Malang",
+    "mapel": "Sejarah"
+  }
+]

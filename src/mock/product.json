@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "title": "Dell XPS 13",
+    "price": 18990000,
+    "gambar": "../../assets/img/laptop.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Apple MacBook Air M2",
+    "price": 19990000,
+    "gambar": "../../assets/img/laptop.jpg"
+  }
+  
+]
